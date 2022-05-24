@@ -1,6 +1,3 @@
 = applying-material-design-to-compose
 
-branch :
-
-* starter
-* final
+branch final :
